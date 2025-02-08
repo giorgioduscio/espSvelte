@@ -1,6 +1,6 @@
 <script>
+  import Router from 'svelte-spa-router';
   import './app.sass'
-  import Router from 'svelte-spa-router'
   import { routes } from './routes';
 
 </script>
